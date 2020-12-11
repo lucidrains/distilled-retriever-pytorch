@@ -1,6 +1,6 @@
 ## Distilling Knowledge from Reader to Retriever
 
-Implementation of the retriever distillation procedure as outlined in the paper "Distilling Knowledge from Reader to Retriever" in Pytorch
+Implementation of the retriever distillation procedure as outlined in the paper <a href="https://arxiv.org/abs/2012.04584">Distilling Knowledge from Reader to Retriever</a> in Pytorch. They propose to train the retriever using the cross attention scores as pseudo-labels. SOTA on QA.
 
 ## Citations
 
